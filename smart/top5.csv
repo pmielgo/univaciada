@@ -1,0 +1,176 @@
+curso_academico,poblacion,des_titulacion,count,orden
+2017-18,Densa,Derecho,653,1
+2017-18,Densa,Administración y Dirección de Empresas,566,2
+2017-18,Densa,Educación Primaria,307,3
+2017-18,Densa,Periodismo,302,4
+2017-18,Densa,Educación Infantil,258,5
+2017-18,Moderadamente densa,Derecho,739,1
+2017-18,Moderadamente densa,Administración y Dirección de Empresas,600,2
+2017-18,Moderadamente densa,Periodismo,295,3
+2017-18,Moderadamente densa,Economía,267,4
+2017-18,Moderadamente densa,Psicología,267,5
+2017-18,Muy densa,Administración y Dirección de Empresas,1185,1
+2017-18,Muy densa,Derecho,1124,2
+2017-18,Muy densa,Educación Infantil,512,3
+2017-18,Muy densa,Educación Primaria,468,4
+2017-18,Muy densa,Psicología,452,5
+2017-18,Muy poco densa,Derecho,51,1
+2017-18,Muy poco densa,Periodismo,45,2
+2017-18,Muy poco densa,Administración y Dirección de Empresas,37,3
+2017-18,Muy poco densa,Educación Primaria,34,4
+2017-18,Muy poco densa,Psicología,27,5
+2017-18,Poco densa,Derecho,314,1
+2017-18,Poco densa,Administración y Dirección de Empresas,227,2
+2017-18,Poco densa,Periodismo,217,3
+2017-18,Poco densa,Economía,137,4
+2017-18,Poco densa,Educación Primaria,132,5
+2018-19,Densa,Administración y Dirección de Empresas,631,1
+2018-19,Densa,Derecho,579,2
+2018-19,Densa,Educación Primaria,395,3
+2018-19,Densa,Educación Infantil,314,4
+2018-19,Densa,Periodismo,257,5
+2018-19,Moderadamente densa,Administración y Dirección de Empresas,693,1
+2018-19,Moderadamente densa,Derecho,583,2
+2018-19,Moderadamente densa,Educación Primaria,312,3
+2018-19,Moderadamente densa,Periodismo,247,4
+2018-19,Moderadamente densa,Psicología,240,5
+2018-19,Muy densa,Administración y Dirección de Empresas,1229,1
+2018-19,Muy densa,Derecho,973,2
+2018-19,Muy densa,Educación Primaria,529,3
+2018-19,Muy densa,Educación Infantil,508,4
+2018-19,Muy densa,Psicología,410,5
+2018-19,Muy poco densa,Administración y Dirección de Empresas,56,1
+2018-19,Muy poco densa,Derecho,53,2
+2018-19,Muy poco densa,Educación Infantil,51,3
+2018-19,Muy poco densa,Educación Primaria,43,4
+2018-19,Muy poco densa,Periodismo,39,5
+2018-19,Poco densa,Administración y Dirección de Empresas,245,1
+2018-19,Poco densa,Derecho,211,2
+2018-19,Poco densa,Periodismo,182,3
+2018-19,Poco densa,Educación Primaria,155,4
+2018-19,Poco densa,Educación Infantil,109,5
+2019-20,Densa,Administración y Dirección de Empresas,610,1
+2019-20,Densa,Derecho,535,2
+2019-20,Densa,Educación Primaria,427,3
+2019-20,Densa,Educación Infantil,372,4
+2019-20,Densa,Enfermería,236,5
+2019-20,Moderadamente densa,Administración y Dirección de Empresas,641,1
+2019-20,Moderadamente densa,Derecho,485,2
+2019-20,Moderadamente densa,Educación Primaria,360,3
+2019-20,Moderadamente densa,Educación Infantil,303,4
+2019-20,Moderadamente densa,Psicología,230,5
+2019-20,Muy densa,Administración y Dirección de Empresas,1160,1
+2019-20,Muy densa,Derecho,937,2
+2019-20,Muy densa,Educación Primaria,542,3
+2019-20,Muy densa,Educación Infantil,492,4
+2019-20,Muy densa,Psicología,422,5
+2019-20,Muy poco densa,Derecho,57,1
+2019-20,Muy poco densa,Administración y Dirección de Empresas,53,2
+2019-20,Muy poco densa,Educación Primaria,39,3
+2019-20,Muy poco densa,Periodismo,35,4
+2019-20,Muy poco densa,Educación Infantil,34,5
+2019-20,Poco densa,Derecho,265,1
+2019-20,Poco densa,Administración y Dirección de Empresas,262,2
+2019-20,Poco densa,Educación Primaria,199,3
+2019-20,Poco densa,Educación Infantil,150,4
+2019-20,Poco densa,Periodismo,134,5
+2020-21,Densa,Derecho,598,1
+2020-21,Densa,Administración y Dirección de Empresas,554,2
+2020-21,Densa,Educación Primaria,448,3
+2020-21,Densa,Educación Infantil,331,4
+2020-21,Densa,Periodismo,238,5
+2020-21,Moderadamente densa,Administración y Dirección de Empresas,711,1
+2020-21,Moderadamente densa,Derecho,688,2
+2020-21,Moderadamente densa,Educación Primaria,311,3
+2020-21,Moderadamente densa,Educación Infantil,289,4
+2020-21,Moderadamente densa,Psicología,228,5
+2020-21,Muy densa,Administración y Dirección de Empresas,1162,1
+2020-21,Muy densa,Derecho,1093,2
+2020-21,Muy densa,Educación Infantil,476,3
+2020-21,Muy densa,Educación Primaria,459,4
+2020-21,Muy densa,Psicología,410,5
+2020-21,Muy poco densa,Derecho,56,1
+2020-21,Muy poco densa,Administración y Dirección de Empresas,38,2
+2020-21,Muy poco densa,Educación Primaria,36,3
+2020-21,Muy poco densa,Educación Infantil,23,4
+2020-21,Muy poco densa,Psicología,21,5
+2020-21,Poco densa,Derecho,269,1
+2020-21,Poco densa,Administración y Dirección de Empresas,266,2
+2020-21,Poco densa,Educación Primaria,155,3
+2020-21,Poco densa,Educación Infantil,115,4
+2020-21,Poco densa,Periodismo,115,5
+2021-22,Densa,Derecho,806,1
+2021-22,Densa,Administración y Dirección de Empresas,586,2
+2021-22,Densa,Educación Primaria,407,3
+2021-22,Densa,Educación Infantil,308,4
+2021-22,Densa,Periodismo,258,5
+2021-22,Moderadamente densa,Derecho,840,1
+2021-22,Moderadamente densa,Administración y Dirección de Empresas,608,2
+2021-22,Moderadamente densa,Educación Primaria,334,3
+2021-22,Moderadamente densa,Educación Infantil,278,4
+2021-22,Moderadamente densa,Economía,263,5
+2021-22,Muy densa,Derecho,1166,1
+2021-22,Muy densa,Administración y Dirección de Empresas,991,2
+2021-22,Muy densa,Educación Infantil,504,3
+2021-22,Muy densa,Educación Primaria,459,4
+2021-22,Muy densa,Psicología,391,5
+2021-22,Muy poco densa,Derecho,66,1
+2021-22,Muy poco densa,Administración y Dirección de Empresas,41,2
+2021-22,Muy poco densa,Educación Infantil,24,3
+2021-22,Muy poco densa,Educación Primaria,24,4
+2021-22,Muy poco densa,Comercio,19,5
+2021-22,Poco densa,Derecho,374,1
+2021-22,Poco densa,Administración y Dirección de Empresas,276,2
+2021-22,Poco densa,Educación Primaria,133,3
+2021-22,Poco densa,Periodismo,126,4
+2021-22,Poco densa,Economía,114,5
+2022-23,Densa,Derecho,697,1
+2022-23,Densa,Administración y Dirección de Empresas,576,2
+2022-23,Densa,Educación Primaria,360,3
+2022-23,Densa,Educación Infantil,343,4
+2022-23,Densa,Enfermería,259,5
+2022-23,Moderadamente densa,Derecho,786,1
+2022-23,Moderadamente densa,Administración y Dirección de Empresas,564,2
+2022-23,Moderadamente densa,Educación Primaria,345,3
+2022-23,Moderadamente densa,Educación Infantil,262,4
+2022-23,Moderadamente densa,Economía,250,5
+2022-23,Muy densa,Derecho,1050,1
+2022-23,Muy densa,Administración y Dirección de Empresas,976,2
+2022-23,Muy densa,Educación Infantil,443,3
+2022-23,Muy densa,Educación Primaria,430,4
+2022-23,Muy densa,Psicología,403,5
+2022-23,Muy poco densa,Derecho,47,1
+2022-23,Muy poco densa,Administración y Dirección de Empresas,41,2
+2022-23,Muy poco densa,Educación Primaria,35,3
+2022-23,Muy poco densa,Educación Infantil,27,4
+2022-23,Muy poco densa,Enfermería,25,5
+2022-23,Poco densa,Derecho,328,1
+2022-23,Poco densa,Administración y Dirección de Empresas,206,2
+2022-23,Poco densa,Educación Primaria,165,3
+2022-23,Poco densa,Periodismo,147,4
+2022-23,Poco densa,Economía,126,5
+2023-24,Densa,Derecho,705,1
+2023-24,Densa,Administración y Dirección de Empresas,543,2
+2023-24,Densa,Educación Primaria,342,3
+2023-24,Densa,Enfermería,315,4
+2023-24,Densa,Educación Infantil,247,5
+2023-24,Moderadamente densa,Derecho,789,1
+2023-24,Moderadamente densa,Administración y Dirección de Empresas,590,2
+2023-24,Moderadamente densa,Educación Primaria,257,3
+2023-24,Moderadamente densa,Psicología,244,4
+2023-24,Moderadamente densa,Medicina,222,5
+2023-24,Muy densa,Derecho,1179,1
+2023-24,Muy densa,Administración y Dirección de Empresas,1005,2
+2023-24,Muy densa,Economía,455,3
+2023-24,Muy densa,Psicología,429,4
+2023-24,Muy densa,Educación Infantil,307,5
+2023-24,Muy poco densa,Derecho,65,1
+2023-24,Muy poco densa,Educación Primaria,53,2
+2023-24,Muy poco densa,Administración y Dirección de Empresas,51,3
+2023-24,Muy poco densa,Educación Infantil,30,4
+2023-24,Muy poco densa,Enfermería,30,5
+2023-24,Poco densa,Derecho,334,1
+2023-24,Poco densa,Administración y Dirección de Empresas,208,2
+2023-24,Poco densa,Educación Primaria,137,3
+2023-24,Poco densa,Enfermería,116,4
+2023-24,Poco densa,Psicología,116,5
